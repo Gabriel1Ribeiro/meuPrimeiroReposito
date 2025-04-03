@@ -1,0 +1,48 @@
+.card {
+    width: 500px;
+    margin: 20px;
+    height: fit-content;
+    border-radius: 25px;
+    border: solid 2px #001aff;
+    background-color: aliceblue;
+}
+
+.imagem-perfil {
+    padding: 20px;
+}
+
+/* #cor {
+    background: red;
+} */
+
+span {
+    color: blueviolet !important;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    border-radius: 50%;
+}
+
+.mensagem {
+    font-family: arial;
+    margin-left: 30px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px
+}
+
+.cor-padrao {
+    color: #001aff;
+}
+
+.estilo-texto {
+    font-style: italic;
+}
